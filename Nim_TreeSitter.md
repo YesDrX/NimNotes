@@ -2,7 +2,7 @@
     To explore how to use tree-sitter in nim.
 ## Prepare
 
-#### install treesitter package for nim
+#### install treesitter package for [nim](https://github.com/genotrance/nimtreesitter)
 ```bash
   nimble install treesitter
 ```
